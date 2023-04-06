@@ -1,0 +1,29 @@
+form{
+    text-align: left;
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid gray;
+    width: 700px;
+    /* height: 150px; */
+    margin: auto;
+    padding: 25px;
+    margin-top: 50px;
+    font-weight: 500;
+    /* display: inline-block; */
+}
+
+label{
+    display: block;
+}
+
+/* .formhandler{
+    margin-top: 17px;
+} */
+
+input{
+    /* margin-left: 25px; */
+    display: block;
+    width: 700px;
+    height: 25px;
+    /* margin: 10px 0px 0px 25px; */
+}

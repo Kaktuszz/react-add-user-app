@@ -1,0 +1,25 @@
+.array{
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid gray;
+    width: 750px;
+    height: auto;
+    margin: auto;
+    padding: 20px 0px 20px 0px;
+    margin-top: 50px;
+    font-weight: 500;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px 25px 0px 25px;
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+    text-align: left;
+    border: 1px solid gray;
+    margin: 10px 6px 10px 0px;
+    padding: 10px;
+}

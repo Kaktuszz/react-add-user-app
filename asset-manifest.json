@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-add-user-app/static/css/main.f696c11a.css",
+    "main.js": "/react-add-user-app/static/js/main.b432974d.js",
+    "static/js/787.9cb3e5b4.chunk.js": "/react-add-user-app/static/js/787.9cb3e5b4.chunk.js",
+    "index.html": "/react-add-user-app/index.html",
+    "main.f696c11a.css.map": "/react-add-user-app/static/css/main.f696c11a.css.map",
+    "main.b432974d.js.map": "/react-add-user-app/static/js/main.b432974d.js.map",
+    "787.9cb3e5b4.chunk.js.map": "/react-add-user-app/static/js/787.9cb3e5b4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f696c11a.css",
+    "static/js/main.b432974d.js"
+  ]
+}
